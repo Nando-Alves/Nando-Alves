@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Alves&layout=compact&theme=radical" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nando-Alves&theme=radical&border_radius=8" height="150"/>
-</p>
 
 ---
 
