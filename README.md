@@ -30,7 +30,7 @@
 </div>
 
 ## 📬 Contact
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail logo" />](mailto:fernandosawyer@gmail.com)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />](https://www.linkedin.com/in/fernando-freitasalves/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />](https://www.linkedin.com/in/fernando-freitasalves/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail logo" />](mailto:fernandosawyer@gmail.com)  
 
 
 
