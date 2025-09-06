@@ -30,10 +30,9 @@
 </div>
 
 ## 📬 Contact
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" - [LinkedIn](https://www.linkedin.com/in/fernando-freitasalves/)   />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
-</div>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail logo" />](mailto:fernandosawyer@gmail.com)  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />](https://www.linkedin.com/in/fernando-freitasalves/)
+
 
 
 
