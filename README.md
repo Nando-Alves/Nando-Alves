@@ -1,7 +1,14 @@
-<h2 align="left">Hi 👋! My name is Fernando  and I'm from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Fernando </h2>
+
+## 📌 About me
+- 🎓 I'm a **Software Engineering** student  
+- 💻 I work primarily as a **Backend Developer**  
+- 🌐 I have experience with **Python**, **Node.js**, **APIs**, **Web Scraping** and **Automation**  
+- 🌱 Always learning and exploring new technologies like **Next.js**  
+
 
 ###
-
+## 🔧 Languages and Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -22,3 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+## 📬 Contact
+- [Gmail](mailto:fernandosawyer@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/fernando-freitasalves/)  
