@@ -4,7 +4,7 @@
 - 🎓 I'm a **Software Engineering** student  
 - 💻 I work primarily as a **Backend Developer**  
 - 🌐 I have experience with **Python**, **Node.js**, **APIs**, **Web Scraping** and **Automation**  
-- 🌱 Always learning and exploring new technologies like **Next.js**  
+- 🌱 Always learning and exploring new technologies like **.NET**  
 
 
 ###
