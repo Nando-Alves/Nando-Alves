@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-label="Fernando Alves - Engenheiro de Software - Fundador da Dev Digital">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06101d"/>
+      <stop offset="1" stop-color="#0a2a38"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="0.6" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#22d3ee" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#34d399" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="typing">
+      <rect x="76" y="156" height="40" width="0">
+        <animate attributeName="width" dur="9s" repeatCount="indefinite"
+                 values="0;590;590;0" keyTimes="0;0.45;0.9;1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1100" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1100" height="320" rx="22" fill="url(#grid)"/>
+
+  <!-- ===== lado esquerdo ===== -->
+  <circle cx="82" cy="62" r="5" fill="#34d399">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="98" y="67" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="15" fill="#34d399" letter-spacing="2">
+    DEV DIGITAL // ONLINE
+  </text>
+
+  <text x="74" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" fill="url(#name)" letter-spacing="-1" opacity="0">
+    Fernando Alves
+    <animate attributeName="opacity" values="0;1" dur="1s" fill="freeze"/>
+  </text>
+
+  <g clip-path="url(#typing)">
+    <text x="76" y="182" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="19" fill="#67e8f9"
+          textLength="590" lengthAdjust="spacing">&gt; Engenheiro de Software  |  Fundador da Dev Digital</text>
+  </g>
+  <rect y="162" width="3" height="26" fill="#34d399">
+    <animate attributeName="x" dur="9s" repeatCount="indefinite" values="76;666;666;76" keyTimes="0;0.45;0.9;1"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas,'Fira Code','Courier New',monospace" font-size="15" fill="#a5f3fc" text-anchor="middle">
+    <g opacity="0">
+      <rect x="76" y="226" width="84" height="32" rx="16" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="118" y="247">Python</text>
+      <animate attributeName="opacity" values="0;1" begin="1s" dur="0.6s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="172" y="226" width="90" height="32" rx="16" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="217" y="247">Node.js</text>
+      <animate attributeName="opacity" values="0;1" begin="1.3s" dur="0.6s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="274" y="226" width="70" height="32" rx="16" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="309" y="247">APIs</text>
+      <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.6s" fill="freeze"/>
+    </g>
+    <g opacity="0">
+      <rect x="356" y="226" width="118" height="32" rx="16" fill="#22d3ee" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.5"/>
+      <text x="415" y="247">Automação</text>
+      <animate attributeName="opacity" values="0;1" begin="1.9s" dur="0.6s" fill="freeze"/>
+    </g>
+  </g>
+
+  <!-- ===== sistema solar (centro 890,160) ===== -->
+  <circle cx="890" cy="160" r="95" fill="url(#sun)">
+    <animate attributeName="r" values="88;104;88" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- orbitas -->
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="1">
+    <circle cx="890" cy="160" r="44"/>
+    <circle cx="890" cy="160" r="78"/>
+    <circle cx="890" cy="160" r="112"/>
+    <circle cx="890" cy="160" r="142"/>
+  </g>
+
+  <!-- pontos de luz (troca de dados) -->
+  <g>
+    <circle r="2.5" fill="#34d399" opacity="0.9">
+      <animateMotion dur="7s" begin="-2s" repeatCount="indefinite" path="M934,160 a44,44 0 1,0 -88,0 a44,44 0 1,0 88,0"/>
+    </circle>
+    <circle r="2.5" fill="#67e8f9" opacity="0.8">
+      <animateMotion dur="11s" begin="-6s" repeatCount="indefinite" path="M968,160 a78,78 0 1,1 -156,0 a78,78 0 1,1 156,0"/>
+    </circle>
+    <circle r="2.5" fill="#34d399" opacity="0.9">
+      <animateMotion dur="16s" begin="-3s" repeatCount="indefinite" path="M1002,160 a112,112 0 1,0 -224,0 a112,112 0 1,0 224,0"/>
+    </circle>
+    <circle r="2.5" fill="#67e8f9" opacity="0.8">
+      <animateMotion dur="23s" begin="-15s" repeatCount="indefinite" path="M1032,160 a142,142 0 1,1 -284,0 a142,142 0 1,1 284,0"/>
+    </circle>
+  </g>
+
+  <!-- planetas: o texto nunca gira, so a posicao muda -->
+  <g font-family="Consolas,'Fira Code','Courier New',monospace" font-size="9" font-weight="700" text-anchor="middle" fill="#bae6fd">
+    <g>
+      <circle r="16" fill="#06101d" stroke="#38bdf8" stroke-width="1.5"/>
+      <text y="3.2">DB</text>
+      <animateMotion dur="12s" begin="-4s" repeatCount="indefinite" path="M934,160 a44,44 0 1,1 -88,0 a44,44 0 1,1 88,0"/>
+    </g>
+    <g>
+      <circle r="16" fill="#06101d" stroke="#22d3ee" stroke-width="1.5"/>
+      <text y="3.2">BACK</text>
+      <animateMotion dur="20s" begin="-13s" repeatCount="indefinite" path="M968,160 a78,78 0 1,1 -156,0 a78,78 0 1,1 156,0"/>
+    </g>
+    <g>
+      <circle r="16" fill="#06101d" stroke="#38bdf8" stroke-width="1.5"/>
+      <text y="3.2">FRONT</text>
+      <animateMotion dur="30s" begin="-9s" repeatCount="indefinite" path="M1002,160 a112,112 0 1,1 -224,0 a112,112 0 1,1 224,0"/>
+    </g>
+    <g>
+      <circle r="16" fill="#06101d" stroke="#22d3ee" stroke-width="1.5"/>
+      <text y="3.2">CLOUD</text>
+      <animateMotion dur="44s" begin="-30s" repeatCount="indefinite" path="M1032,160 a142,142 0 1,1 -284,0 a142,142 0 1,1 284,0"/>
+    </g>
+  </g>
+
+  <!-- sol: API -->
+  <circle cx="890" cy="160" r="24" fill="none" stroke="#34d399" stroke-width="1.5">
+    <animate attributeName="r" values="24;40" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.6;0" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="890" cy="160" r="22" fill="#06101d" stroke="#34d399" stroke-width="2"/>
+  <text x="890" y="165" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="14" font-weight="700" text-anchor="middle" fill="#34d399">API</text>
+</svg>
