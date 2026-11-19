@@ -65,34 +65,6 @@ Na **Dev Digital**, atuo no desenvolvimento de soluções digitais para problema
 
 </div>
 
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nando-Alves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Alves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Nando-Alves&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-## Projetos em destaque
-
-<div align="center">
-
-[![transforma-dados-em-grafico](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=transforma-dados-em-grafico&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/transforma-dados-em-grafico)
-[![Todo_list](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=Todo_list&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/Todo_list)
-
-[![Calculadora-de-determinante-3x3](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=Calculadora-de-determinante-3x3&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/Calculadora-de-determinante-3x3)
-[![TailwindCSS_PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=TailwindCSS_PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/TailwindCSS_PROJECT)
-
-</div>
-
----
 
 ## Contato
 
