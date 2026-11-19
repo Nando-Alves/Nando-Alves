@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Fernando Alves - Desenvolvedor Back-end - Dev Digital" width="100%"/>
+<img src="banner-dev.svg" alt="Fernando Alves - Engenheiro de Software - Fundador da Dev Digital" width="100%"/>
 
 <br/>
 
@@ -12,14 +12,9 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software e desenvolvedor back-end, com experiência em Python e Node.js, APIs, web scraping e automação. Gosto de entender o problema por trás de cada projeto para entregar soluções simples, funcionais e fáceis de manter.
+Estudante de Engenharia de Software e fundador da Dev Digital. Trabalho principalmente com back-end, desenvolvendo APIs, automações e integrações com Python e Node.js, além de extração de dados com web scraping.
 
-- Nome: Fernando Freitas Alves
-- Função: Desenvolvedor Back-end
-- Formação: Engenharia de Software (cursando)
-- Foco: APIs REST, automação de processos, web scraping e bancos de dados
-- Estudando: TypeScript, arquitetura de software, Docker e Cloud/DevOps
-- Aberto a projetos, estágios e colaborações
+Sou movido pela curiosidade. Gosto de aprender e estudar de tudo um pouco, de uma nova linguagem a um assunto que nem parece ter relação com tecnologia, porque é assim que surgem as melhores soluções. No fim, código é ferramenta. O que me interessa é usar o que aprendo para resolver problemas reais.
 
 ---
 
@@ -40,21 +35,27 @@ Na **Dev Digital**, atuo no desenvolvimento de soluções digitais para problema
 
 <div align="center">
 
-**Linguagens**
-
 <img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css&theme=dark" />
 
-**Back-end e Front-end**
+**Linguagens**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind&theme=dark" />
 
-**Bancos de dados**
+**Back-end e Front-end**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver&theme=dark" />
 
-**Ferramentas**
+**Bancos de dados**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+
+**Ferramentas**
 
 </div>
 
