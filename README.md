@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner-dev.svg" alt="Fernando Alves - Engenheiro de Software - Fundador da Dev Digital" width="100%"/>
+<img src="banner-orbita.svg" alt="Fernando Alves - Engenheiro de Software - Fundador da Dev Digital" width="100%"/>
 
 <br/>
 
