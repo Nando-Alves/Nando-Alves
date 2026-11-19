@@ -1,37 +1,109 @@
-<h2 align="left">Hi 👋! My name is Fernando </h2>
-
-## 📌 About me
-- 🎓 I'm a **Software Engineering** student  
-- 💻 I work primarily as a **Backend Developer**  
-- 🌐 I have experience with **Python**, **Node.js**, **APIs**, **Web Scraping** and **Automation**  
-- 🌱 Always learning and exploring new technologies like **.NET**  
-
-
-###
-## 🔧 Languages and Technologies
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fernando%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20Developer%20•%20Python%20•%20Node.js%20•%20Automação&descSize=18&descAlignY=60" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Fernando;Estudante+de+Engenharia+de+Software;Desenvolvedor+Back-end;APIs+%7C+Automação+%7C+Web+Scraping;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</a>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="" width="48" height="48" />
+
+<br/>
+
+![Visitas](https://komarev.com/ghpvc/?username=Nando-Alves&label=Visitas&color=0e75b6&style=for-the-badge)
+[![Seguidores](https://img.shields.io/github/followers/Nando-Alves?label=Seguidores&style=for-the-badge&logo=github&color=2c5364)](https://github.com/Nando-Alves)
+
 </div>
 
-## 📬 Contact
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />](https://www.linkedin.com/in/fernando-freitasalves/) [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Gmail logo" />](mailto:fernandosawyer@gmail.com)  
+---
 
+## Sobre mim
 
+Sou estudante de Engenharia de Software e desenvolvedor back-end, com experiência em Python e Node.js, APIs, web scraping e automação. Gosto de entender o problema por trás de cada projeto para entregar soluções simples, funcionais e fáceis de manter.
 
+- Nome: Fernando Freitas Alves
+- Função: Desenvolvedor Back-end
+- Formação: Engenharia de Software (cursando)
+- Foco: APIs REST, automação de processos, web scraping e bancos de dados
+- Estudando: TypeScript, arquitetura de software, Docker e Cloud/DevOps
+- Aberto a projetos, estágios e colaborações
 
+---
+
+## Além do código, construindo soluções
+
+Na **Dev Digital**, atuo no desenvolvimento de soluções digitais para problemas concretos de negócio:
+
+- Aplicações web e sistemas personalizados
+- Automação de processos
+- Integração entre tecnologias, APIs e serviços
+- Deploy e manutenção da aplicação em produção
+- Modelagem e integração com bancos de dados
+- Dashboards e geração de gráficos a partir de dados
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css&theme=dark" />
+
+**Back-end e Front-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,tailwind&theme=dark" />
+
+**Bancos de dados**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver&theme=dark" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" />
+
+</div>
+
+---
+
+## Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nando-Alves&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-Alves&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=Nando-Alves&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+## Projetos em destaque
+
+<div align="center">
+
+[![transforma-dados-em-grafico](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=transforma-dados-em-grafico&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/transforma-dados-em-grafico)
+[![Todo_list](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=Todo_list&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/Todo_list)
+
+[![Calculadora-de-determinante-3x3](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=Calculadora-de-determinante-3x3&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/Calculadora-de-determinante-3x3)
+[![TailwindCSS_PROJECT](https://github-readme-stats.vercel.app/api/pin/?username=Nando-Alves&repo=TailwindCSS_PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Nando-Alves/TailwindCSS_PROJECT)
+
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-freitasalves/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandosawyer@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nando-Alves)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
