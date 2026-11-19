@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-label="Fernando Alves - Engenheiro de Software - Fundador da Dev Digital">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100d0c"/>
+      <stop offset="1" stop-color="#1c1210"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="0.55" stop-color="#fb7185"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="card"><rect width="1100" height="300" rx="22"/></clipPath>
+
+    <!-- digitacao dos comandos (ciclo de 12s) -->
+    <clipPath id="c1"><rect x="640" y="88" height="24" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;72;72;0" keyTimes="0;0.03;0.09;0.94;1"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="640" y="132" height="24" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;135;135;0" keyTimes="0;0.20;0.29;0.94;1"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="640" y="176" height="24" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;153;153;0" keyTimes="0;0.42;0.52;0.94;1"/>
+    </rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1100" height="300" fill="url(#bg)"/>
+
+    <!-- brilhos de fundo -->
+    <g filter="url(#blur)">
+      <circle cx="160" cy="260" r="110" fill="#fb7185" fill-opacity="0.22">
+        <animateTransform attributeName="transform" type="translate" values="0 0;60 -30;0 0" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="900" cy="40" r="120" fill="#fbbf24" fill-opacity="0.16">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-70 40;0 0" dur="18s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- lado esquerdo -->
+  <text x="60" y="68" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="15" fill="#fbbf24" letter-spacing="3" opacity="0">
+    &lt;/&gt; BACK-END DEVELOPER
+    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+  </text>
+
+  <text x="58" y="138" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="62" font-weight="800" fill="url(#name)"
+        textLength="520" lengthAdjust="spacingAndGlyphs" opacity="0">
+    Fernando Alves
+    <animate attributeName="opacity" values="0;1" begin="0.2s" dur="1s" fill="freeze"/>
+    <animate attributeName="y" values="150;138" begin="0.2s" dur="1s" fill="freeze"/>
+  </text>
+
+  <rect x="60" y="160" height="4" rx="2" width="0" fill="url(#bar)">
+    <animate attributeName="width" values="0;180" begin="0.6s" dur="1s" fill="freeze"/>
+  </rect>
+
+  <text x="60" y="203" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" fill="#fde68a" opacity="0">
+    Engenheiro de Software · Fundador da Dev Digital
+    <animate attributeName="opacity" values="0;1" begin="0.9s" dur="1s" fill="freeze"/>
+  </text>
+  <text x="60" y="240" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#a8a29e" opacity="0">
+    Engenharia de Software · Python · Node.js · APIs e Automação
+    <animate attributeName="opacity" values="0;1" begin="1.2s" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- janela de terminal -->
+  <rect x="610" y="36" width="440" height="228" rx="14" fill="#0b0908" fill-opacity="0.92" stroke="#fb7185" stroke-opacity="0.35"/>
+  <path d="M610 50a14 14 0 0 1 14-14h412a14 14 0 0 1 14 14v22H610z" fill="#1f1714"/>
+  <circle cx="632" cy="54" r="5.5" fill="#fb7185"/>
+  <circle cx="652" cy="54" r="5.5" fill="#fbbf24"/>
+  <circle cx="672" cy="54" r="5.5" fill="#4ade80"/>
+  <text x="830" y="58" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="12" fill="#78716c" text-anchor="middle">fernando@devdigital: ~</text>
+
+  <g font-family="Consolas,'Fira Code','Courier New',monospace" font-size="15">
+    <!-- comando 1 -->
+    <g clip-path="url(#c1)"><text x="640" y="106" fill="#e7e5e4" textLength="72" lengthAdjust="spacing">$ whoami</text></g>
+    <text x="640" y="128" fill="#fbbf24" textLength="126" lengthAdjust="spacing" opacity="0">
+      fernando-alves
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.11;0.94"/>
+    </text>
+
+    <!-- comando 2 -->
+    <g clip-path="url(#c2)"><text x="640" y="150" fill="#e7e5e4" textLength="135" lengthAdjust="spacing">$ cat stack.txt</text></g>
+    <text x="640" y="172" fill="#fbbf24" textLength="207" lengthAdjust="spacing" opacity="0">
+      python  node  apis  sql
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.31;0.94"/>
+    </text>
+
+    <!-- comando 3 -->
+    <g clip-path="url(#c3)"><text x="640" y="194" fill="#e7e5e4" textLength="153" lengthAdjust="spacing">$ ./deploy --prod</text></g>
+
+    <rect x="640" y="206" width="240" height="8" rx="4" fill="#292524" opacity="0">
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.53;0.94"/>
+    </rect>
+    <rect x="640" y="206" width="0" height="8" rx="4" fill="url(#bar)">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;240;240;0" keyTimes="0;0.54;0.74;0.94;1"/>
+    </rect>
+
+    <text x="640" y="240" fill="#4ade80" textLength="160" lengthAdjust="spacing" opacity="0">
+      deploy concluido
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.75;0.94"/>
+    </text>
+
+    <!-- cursor -->
+    <rect x="812" y="227" width="8" height="16" fill="#fbbf24">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
